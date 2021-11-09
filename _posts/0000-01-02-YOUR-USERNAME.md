@@ -1,6 +1,7 @@
 # ---
 ## layout: slide
-### title: *“_includes/02-image.md”*
-#### ---
-##### le thanh quy
-###### Use the left arrow to go back!
+### title: *“includes/03-links.md”*
+#### title: "https://github.com/QuyLT95"
+##### ---
+###### le thanh quy
+####### Use the left arrow to go back!
